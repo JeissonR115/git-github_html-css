@@ -1,0 +1,36 @@
+body {
+    background-color: #111216;
+    color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+figcaption {
+    color: #111216;
+    font-size: small;
+    margin: 5px;
+}
+
+figure {
+    overflow: hidden;
+
+    width: 200px;
+
+    height: auto;
+    border-radius: 5%;
+    position: relative;
+    margin: 5%;
+    background-color: bisque;
+}
+
+img {
+    width: 101%;
+
+    height: auto;
+
+
+}
+
+h1,
+h4 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

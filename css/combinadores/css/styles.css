@@ -1,0 +1,25 @@
+h2+p {
+
+    color: blue;
+}
+
+h1~p {
+    background-color: red;
+}
+
+li a {
+    text-decoration: none;
+    font-family: cursive;
+    color: blueviolet;
+}
+
+li>a {
+    font-size: 20px;
+}
+
+p>a {
+    text-decoration: line-through
+}
+
+/* ">" es solo paro hijos
+   " " os paro hijos, nietol, visnietos , etc */

@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+main {
+    width: 50vw;
+    background-color: chocolate;
+    min-height: 130px;
+    padding: 20px;
+    font-size: 20px;
+    margin: auto;
+    min-width: 250px;
+    max-width: 500px;
+}
+
+.text-container {
+    font-size: 1.5em;
+}
+
+.text-container2 {
+    font-size: 1.5rem;
+}

@@ -1,0 +1,17 @@
+.block-element {
+    background-color: aquamarine;
+    margin: 10px;
+    padding: 20px;
+}
+
+.nav {
+    background-color: chocolate;
+    list-style: none;
+
+    text-align: center;
+}
+
+.nav li {
+    display: inline-block;
+    margin: 5%;
+}

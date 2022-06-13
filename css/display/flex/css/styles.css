@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
+.container {
+    border: solid 0.3rem crimson;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.box {
+    height: 10rem;
+    flex-grow: 1;
+    flex-basis: 10rem;
+}
+
+.box1 {
+    background: aliceblue;
+}
+
+.box2 {
+    background: beige;
+}
+
+.box3 {
+    background: cadetblue;
+}
+
+.box4 {
+    background: darkblue;
+}
+
+.box5 {
+    background: firebrick;
+}
